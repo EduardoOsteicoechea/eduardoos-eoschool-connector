@@ -1,0 +1,6 @@
+.env
+docs.catalog.json
+material.body.json
+__pycache__/
+*.pyc
+.DS_Store
